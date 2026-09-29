@@ -40,32 +40,35 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 🚀 Projects
+## 👥 팀 프로젝트
 
-### 🛒 실시간 공동구매 플랫폼
+### 🟢 [Festlog | 축제 커뮤니티·라이브 플랫폼](https://github.com/chean0830/festival-project)
 
-구매자와 판매자가 함께 이용하는 역할 기반 공동구매 서비스입니다.
+- **역할:** 라이브 스트리밍·후원·유료 입장 기능, 계정 설정, 홈 화면 UI 구현
+- **기간:** 2026.08 ~ 2026.09
+- **목표:** 축제 정보와 커뮤니티, 라이브 방송을 한곳에서 제공하는 통합 플랫폼 구현
+- **기술:** `Java` `Spring Boot` `Spring Security` `JPA` `MySQL` `React`
 
-- 구매자·판매자·관리자별 화면과 기능 분리
-- 구매자 또는 판매자를 선택하는 회원가입 기능
-- Spring Boot REST API와 React 프런트엔드 연동
-- Spring Data JPA와 MySQL을 이용한 회원 데이터 관리
-- BCrypt를 이용한 비밀번호 암호화
-- 이메일 중복 및 입력값 검증
+---
 
-`Java` `Spring Boot` `Spring Data JPA` `MySQL` `React` `TypeScript`
+## 🛠️ 개인 프로젝트
 
-### ⚽ 풋살 예약 서비스
+- 🛒 [실시간 공동구매 플랫폼](https://github.com/kimdyssey/group-buy-platform)  
+  구매자·판매자 역할 기반 회원가입과 공동구매 기능을 제공하는 풀스택 서비스  
+  `Java` `Spring Boot` `JPA` `MySQL` `React` `TypeScript`
 
-풋살 경기장과 일정을 확인하고 예약할 수 있는 웹 서비스 프로젝트입니다.
+- ⚽ [풋살 예약 서비스](https://github.com/kimdyssey/futsal-booking)  
+  풋살 경기장과 일정을 확인하고 예약할 수 있는 웹 서비스  
+  `Java` `Spring Boot` `MySQL`
 
-`Java` `Spring Boot` `MySQL`
 
-### 🔨 실시간 경매 서비스
+## 📚 Currently Learning
 
-상품 등록부터 입찰 흐름까지 구현하며 실시간 서비스 구조를 학습한 프로젝트입니다.
-
-`Java` `Spring Boot` `MySQL`
+- Spring Security 기반 인증·인가
+- REST API 설계와 예외 처리
+- JPA 연관관계와 트랜잭션
+- 테스트 가능한 코드 작성
+- React와 Spring Boot의 안정적인 연동
 
 ## 📚 Currently Learning
 
