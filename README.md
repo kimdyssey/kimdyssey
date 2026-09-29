@@ -78,10 +78,10 @@
 ## 📊 GitHub Activity
 
 <div align="center">
+  
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimdyssey&theme=vue)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdyssey&show_icons=true&theme=vue&hide_border=true&locale=kr)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdyssey&layout=compact&theme=vue&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimdyssey&theme=vue)
 
 </div>
 
