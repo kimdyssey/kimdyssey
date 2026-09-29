@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요, kimdyssey입니다 👋
+# 안녕하세요, 김석철입니다 👋
 
 ### Java와 Spring Boot를 중심으로 서비스를 만드는 개발자입니다.
 
